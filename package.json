@@ -19,7 +19,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "ant-design-vue": "^4.2.6",
+    "ant-design-vue": "^3.2.20",
     "axios": "^1.9.0",
     "echarts": "^5.6.0",
     "pinia": "^3.0.1",
