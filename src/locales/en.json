@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to Trade Galaxy",
+  "about": "This is an about page",
+  "button": {
+    "submit": "Submit",
+    "cancel": "Cancel"
+  }
+}
